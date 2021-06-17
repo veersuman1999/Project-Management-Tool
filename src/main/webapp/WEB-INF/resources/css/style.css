@@ -1,0 +1,25 @@
+.custom-bg{
+    background: #2196f3!important;
+}
+
+.mdashboard .card{
+    border: 1px solid #2196f3;
+}
+
+.mdashboard .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+.list-group-item.active{
+    background: #2196f3!important;
+    border-color: #2196f3!important;
+}
+.discount-label{
+    font-size: 10px! important;
+    font-style: italic! important;
+    text-decoration: line-through! important;
+}
+.product-card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
